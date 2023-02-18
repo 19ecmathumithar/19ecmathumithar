@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=19ecmathumithar&label=Profile%20views&color=0e75b6&style=flat" alt="19ecmathumithar" /> </p>
 
-- 🔭 I’m currently doing intern at **Calibraint Technologies.**
+
 
 - 🌱 I’m currently learning **Frameworks, Courses etc.,**
 
