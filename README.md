@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Frameworks, Courses etc.,**
 
-- 💬 Ask me about **C,C++,Java,Javascript**
+- 💬 Ask me about **C,C#,ASP.NET WEB API,MVC FRAMEWORK,HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **mathumitharagunathan2001@gmail.com**   
 
-- ⚡ Fun fact **Think the logic first and then write a code.**
+- ⚡ Fun fact **Think about the logic first and then write a code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
